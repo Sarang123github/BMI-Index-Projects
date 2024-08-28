@@ -1,0 +1,28 @@
+.container{
+
+margin: 100px auto 100px;
+width: 500px;
+text-align: center;
+border: solid #212121 3px ;
+
+
+}
+body{
+
+
+    background-color:aqua
+
+}
+#results{
+
+padding-top: 20px;
+color: red;
+
+}
+#results {
+    font-size: 15px;
+    background-color: orange;
+    padding: 20px 50px;
+    margin-top: 10px;
+    border-radius: 10px;
+  }
